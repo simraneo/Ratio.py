@@ -1,1 +1,4 @@
-
+{
+   "torrent": "<Torrent file path>",
+   "upload": "<120 (kB/s)>"
+}
